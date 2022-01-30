@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.treetechies.quiet.quiet">
+    package="com.treetechies.quiet">
    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
    <application
-        android:label="quiet"
+        android:label="Quiet"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
